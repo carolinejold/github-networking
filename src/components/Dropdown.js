@@ -60,7 +60,7 @@ const locations = [
   { value: "amsterdam", label: "Amsterdam" },
   { value: "athens", label: "Athens" },
   { value: "baku", label: "Baku" },
-  { value: "belgrade", label: "belgrade" },
+  { value: "belgrade", label: "Belgrade" },
   { value: "berlin", label: "Berlin" },
   { value: "bern", label: "Bern" },
   { value: "bratislava", label: "Bratislava" },
