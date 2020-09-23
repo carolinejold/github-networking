@@ -4,7 +4,7 @@ Project has been deployed and can be viewed here: https://github-networking.netl
 
 ## Task & Solution
 
-* 'Build a web service or app that utilises data provided by the Github API.
+* "Build a web service or app that utilises data provided by the Github API"
 
 ### What the solution does:
 * This app provides users with the opportunity to easily search GitHub developers based upon their location and the programming language in which they code.*
