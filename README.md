@@ -13,7 +13,7 @@ Project has been deployed and can be viewed here: https://github-networking.netl
 * The app is completely mobile responsive and I have kept to clear naming conventions.
 
 ### Future improvements:
-* I am currently using React Hooks, but to make the app even more scalable I could convert it to use Context or Redux.
+* I am currently using React Hooks, but to make the app more scalable I could convert it to use Context or Redux.
 * There are many more locations and languages which could be added, and data could be stored in an external database.
 
 ### To run the application:
