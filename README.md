@@ -12,6 +12,7 @@ Project has been deployed and can be viewed here: https://github-networking.netl
 * The aim of this is to encourage networking within the local community, to build support networks for software developers and to help people learning to code to find mentors nearby.
 * The app is completely mobile responsive and I have kept to clear naming conventions.
 * I am currently using React Hooks, but to make the app even more scalable I could convert it to use Context or Redux.
+* There are many more locations and languages which could be added, and data could be stored in an external database.
 
 ### To run the application:
 * Clone the repository
