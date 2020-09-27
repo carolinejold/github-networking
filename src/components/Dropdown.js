@@ -1,9 +1,10 @@
 import React, { useState } from "react";
 import Select from "react-select";
 
+
 const Dropdown = ({ setResultsData }) => {
-  const [selectedLanguage, setSelectedLanguage] = useState(null);
-  const [selectedLocation, setSelectedLocation] = useState(null);
+  const [selectedLanguage, setSelectedLanguage] = useState('');
+  const [selectedLocation, setSelectedLocation] = useState('');
 
   const onSubmit = (e) => {
     e.preventDefault();
@@ -42,8 +43,6 @@ export default Dropdown;
 // DATA
 const languages = [
   { value: "c", label: "C" },
-  { value: "c#", label: "C#" },
-  { value: "c++", label: "C++" },
   { value: "go", label: "Go" },
   { value: "java", label: "Java" },
   { value: "javascript", label: "JavaScript" },
